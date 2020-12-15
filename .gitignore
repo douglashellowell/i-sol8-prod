@@ -1,0 +1,6 @@
+/node_server/scripts/
+/node_server/src/
+/node_server/node_modules/
+/node_server/.gitignore
+/node_server/rollup.config.js
+/node_server/__sapper__/dev/
